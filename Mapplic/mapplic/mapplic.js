@@ -1,5 +1,5 @@
 /**
- * Mapplic - Custom Interactive Map Plugin by @sekler
+ * Mapplic - Custom Interactive Map Plugin by
  * http://www.mapplic.com 
  */
 
